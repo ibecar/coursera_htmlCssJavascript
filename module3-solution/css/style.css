@@ -1,0 +1,10 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #FFFFF5;
+  font-family: 'Oxygen', sans-serif;
+}
+
+#bs-example-navbar-collapse-1 {
+  background-color: #FFFFF5
+}
